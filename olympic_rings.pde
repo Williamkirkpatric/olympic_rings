@@ -25,7 +25,3 @@ strokeWeight(8);
 fill(0,0,0,0);
 stroke(75,255,160);
 ellipse(270,170,100,100);
-
-
-
-save("WILLIAM.OlympicRings.Drawing.png");
